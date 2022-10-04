@@ -584,7 +584,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  
 
   color: var(--primary-background-color);
   background-color: rgba(47, 48, 58, 0.8);
@@ -787,7 +786,6 @@ body {
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.1);
 }
-
 
 /* form */
 
